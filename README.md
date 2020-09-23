@@ -36,7 +36,7 @@ Steps to Manual UI testing :
 
 Below are the screenshots :
 
-https://github.com/kunal261993/MovieApp/blob/master/Screenshot_20200915-225538.jpg
+https://github.com/kunal261993/PopularMoviesOmdb/blob/master/Screenshot_20200923-091600.jpg
 
 https://github.com/kunal261993/MovieApp/blob/master/Screenshot_20200915-225710.jpg
 
