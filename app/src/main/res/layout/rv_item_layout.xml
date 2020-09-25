@@ -3,6 +3,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:id="@+id/movies_layout"
+    android:layout_margin="5dp"
     >
 
     <ImageView
